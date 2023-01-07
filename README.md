@@ -4,6 +4,6 @@
 
 
 ## Developer
-@ Armangdi
-@ boy980705
 2022-11 ~ 2022-12
+@Armangdi <br>
+@boy980705
