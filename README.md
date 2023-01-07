@@ -5,9 +5,9 @@
 
 ## Developer
 2022-11 ~ 2022-12 <br>
-<a href = "https://github.com/Armangdi" > @Armangdi</a>
-@Armangdi <br>
-@boy980705
+<a href = "https://github.com/Armangdi" > @Armangdi</a><br>
+<a href = "https://github.com/boy980705" > @boy980705</a><br>
+
 
 
 ## Overview
