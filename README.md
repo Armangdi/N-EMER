@@ -10,6 +10,8 @@
 
 
 ## Overview
+![image](https://user-images.githubusercontent.com/108450957/211135622-130c0d5d-dfbc-4924-8dac-4540e8bdc31b.png)
+
 As many as 13.948 million people live in Gyeonggi-do, where we are now. It's a huge figure. If you look at the statistical graph, you can see that the figure is increasing.
 But compared to this population, there are a few medical facilities available in times of emergency. There are only 69 throughout Gyeonggi-do. It is important to locate them because missing the golden time can lead to a number of dangerous situations. Therefore, we came to plan a web project with these capabilities.
 We created it using a public data site that stores various data of Gyeonggi-do and Naver Map API.
