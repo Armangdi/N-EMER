@@ -16,3 +16,6 @@ As many as 13.948 million people live in Gyeonggi-do, where we are now. It's a h
 But compared to this population, there are a few medical facilities available in times of emergency. There are only 69 throughout Gyeonggi-do. It is important to locate them because missing the golden time can lead to a number of dangerous situations. Therefore, we came to plan a web project with these capabilities.
 We created it using a public data site that stores various data of Gyeonggi-do and Naver Map API.
 The current location was measured using the GPS of the device, and the longitude and latitude were setted out by processing json from the emergency medical center. Distance was measured through both longitude and latitude, and the nearest emergency facility could be addressed.
+
+## Map
+![image](https://user-images.githubusercontent.com/108450957/211135839-9cb6425a-dfa6-4583-97df-fdb9086619b9.png)
